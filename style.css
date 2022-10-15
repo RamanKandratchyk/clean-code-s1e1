@@ -24,7 +24,8 @@ body {
   .title-box { text-align: center;
   }
 }
-.centered-main-page-element {
+
+.task-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
