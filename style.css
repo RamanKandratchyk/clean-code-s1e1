@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.li, .h3 {
+.li,
+.h3 {
   list-style: none;
 }
 
-.input,.button{
+.input,
+.button {
   outline: none;
 }
 
@@ -146,7 +148,7 @@
   transform: rotateZ(0);
 }
 
-/* Completed */
+/* Completed tasks */
 .ul#completed-tasks .label {
   text-decoration: line-through;
   color: #888;
